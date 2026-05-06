@@ -1,0 +1,2 @@
+# gorras
+detección de gorras
